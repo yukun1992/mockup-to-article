@@ -1,6 +1,6 @@
-#  Front-End Project 1: Article to Mockup
+# Udacity Front-End Project 1: Article to Mockup
 
-# How to run it?
+## How to run it?
 
 * Open index.html file 
 
