@@ -5,6 +5,6 @@
 * Open index.html file 
 ---------------------------------
 ## result
-![alt][https://github.com/yukun1992/mockup-to-article/blob/master/demo.PNG]
+![][https://github.com/yukun1992/mockup-to-article/blob/master/demo.PNG]
 
 
